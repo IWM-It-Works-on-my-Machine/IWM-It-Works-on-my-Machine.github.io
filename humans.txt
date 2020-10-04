@@ -15,18 +15,19 @@ Last Update on 2020-10-04
 /** PEOPLE **/
   TEAM
     Jatinder Singh
-    MarkUp (HTML, CSS), Modeller and Animator (Blender)
+    MarkUp (HTML, CSS), Modeller and Animator (Blender), Designer
 
     Filippo Falezza
-    MarkUp (HTML, CSS), Modeller (Blender)
+    MarkUp (HTML, CSS), Modeller (Blender), Designer
     
     Raluca Pantile
-    Modelling and Animator (Blender)
+    Modelling and Animator (Blender), Designer, Submission person
 
     Eleonora De Giorgi
-    
+    Research materials, designed the airlock. Proofreader and UX design.
     
     Anwesha Sahu
+    Research materials, wrote part of the website.
 
 /** SITE **/
   Language: English
@@ -36,6 +37,9 @@ Last Update on 2020-10-04
     Blender
     Arch Linux
     Firefox
+    KDenLive
+    Windows (... :( )
+    GIMP
 
 A special thanks to our whiteboard!
 
