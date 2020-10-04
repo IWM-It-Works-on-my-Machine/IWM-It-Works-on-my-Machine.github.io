@@ -1,23 +1,31 @@
-body{background-image: url("/Background-Anwesha.jpg");
-background-color:  white;
+body{
+  background-image: url("/Background-Anwesha.jpg");
+  background-color:  white;
   color: white;
   font-size: 16px;
   font-family: Sans-Serif;
   margin-left: 72px;
   margin-right: 72px;
-  margin-top: 72px;}
-h1{color: white;
+  margin-top: 72px;
+}
+h1{
+  color: white;
   font-family: Sans-Serif;
   font-size: 48px;
-text-align: center;}
-h2{color: white;
+  text-align: center;
+}
+h2{
+  color: white;
   font-family: Sans-Serif;
   font-size: 30px;
-text-align: center;}
-h3{color: white;
+  text-align: center;
+}
+h3{
+  color: white;
   font-family: Sans-Serif;
   font-size: 20px;
-  text-align: center;}
+  text-align: center;
+}
 .topnav{
   background-color: #333;
   overflow: hidden;
@@ -37,8 +45,6 @@ h3{color: white;
 .topnav a.active {
   background-color: #671dde;
   color: white;
-  .content {
-  padding: 16px;
 }
 .content {
   padding: 16px;
