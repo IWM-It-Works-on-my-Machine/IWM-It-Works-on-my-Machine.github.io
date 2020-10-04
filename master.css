@@ -37,7 +37,18 @@ h3{color: white;
 .topnav a.active {
   background-color: #671dde;
   color: white;
+  .content {
+  padding: 16px;
 }
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+.sticky + .content {
+  padding-top: 60px;
+}
+
 div.textbox1{
   border-radius: 25px;
   border: 2px solid #ffffff;
