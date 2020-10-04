@@ -40,6 +40,9 @@ h3{color: white;
   .content {
   padding: 16px;
 }
+.content {
+  padding: 16px;
+}
 .sticky {
   position: fixed;
   top: 0;
