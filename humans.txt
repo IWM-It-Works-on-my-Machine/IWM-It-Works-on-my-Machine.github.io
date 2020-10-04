@@ -40,6 +40,7 @@ Last Update on 2020-10-04
     KDenLive
     Windows (... :( )
     GIMP
+    Git
 
 A special thanks to our whiteboard!
 
